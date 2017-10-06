@@ -1,9 +1,9 @@
-# contributing
+# Contributing Guide
 Contributing Guide for @colin6128 projects
 
 colin6128 welcomes contributions to his open source projects on Github.
 
-# Issues
+## Issues
 
 Feel free to submit issues and enhancement requests.
 
@@ -13,7 +13,7 @@ Please refer to each project's style guidelines and guidelines for submitting pa
 
 - Fork the repo on GitHub
 - Clone the project to your own machine
-- Commit changes to your own branch
+- Commit changes to your own branchc
 - Push your work back up to your fork
 - Submit a Pull request so that we can review your changes
 
