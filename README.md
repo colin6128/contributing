@@ -46,5 +46,6 @@ limitations under the License.
 ## FAQ
 - Can I contribute code written by others?
 
-- Do you have a 'Code of Conduct'?
-Yes. A summary of the [Code of conduct](CODE_OF_CONDUCT.md) is provided in this repository
+Please do not contribute code you did not write yourself unless you are certain you have the legal ability to do so. Also ensure all contributed code can be distributed under the project License.
+
+- [Do you have a 'Code of Conduct'?](CODE_OF_CONDUCT.md)
